@@ -1,0 +1,108 @@
+nav{
+    width: 100%;
+    height: 36px;
+}
+.menu-info{
+    float: left;
+    line-height:36px;
+    font-size: 12px;
+}
+.Makhachkala{
+    padding-left: 400px;
+}
+.shops{
+  margin:0 24px 0 99px;
+    
+}
+.buyer{
+    margin-right: 20px;
+    font-size: 12px;
+}
+.legal_entities{
+    font-size: 12px;
+}
+p{
+    display: inline-block;
+    color: #696969;
+    font-size: 12px;
+    margin-left: 384px;
+}
+.menu{
+    margin-top: 20px;
+
+}  
+.logotip{
+margin: 15px 0 0 400px;
+    font-size: 24px;  
+    float: left;
+}
+.one_row{
+    margin-bottom: 29px;
+    padding-bottom: 1px
+}
+.search{
+margin-left: 56px;
+width: 412px;
+height: 48px;
+border-radius: 3px;
+border: 1px solid #D4D4D4;
+font-size: 14px;
+padding-left: 16px;
+line-height: 48px;
+    float: left;
+    
+}
+.fa-search{
+    display: inline-block;
+background: #E0001B;
+color: white;
+    height: 48px;
+width: 56px;
+    text-align: center;
+    padding-top: 10px;
+    margin: 0 62px 1px 0;
+    vertical-align: middle;
+float: left;
+}
+
+.filter_1{
+    float: left;
+    font-size:14px;
+    margin-right: 30px;
+}
+.second_row{
+    width: 1500px;
+    margin: 0 auto;
+    float: left;
+    height: 48px;
+    
+}
+
+.catalog_castam{
+    padding-right: 5px;
+    
+}
+.catalog{
+margin: 34px 24px 0 400px;
+width: 136px;
+height: 48px;
+background: #E0001B;
+color: white;
+font-size: 20px;
+padding:15px;
+float:left;
+
+}
+.filter{
+    font-size: 14px;
+    text-align: center;
+    padding: 53px 32px 0 0;
+    float: left;
+
+}
+
+
+
+
+
+
